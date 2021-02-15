@@ -1,0 +1,1 @@
+SELECT * FROM optica.new_view;
